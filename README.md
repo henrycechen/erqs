@@ -1,2 +1,2 @@
-# erqs
+# ERQS
 Exam Record Query System
